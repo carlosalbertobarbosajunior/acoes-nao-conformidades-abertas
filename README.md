@@ -19,5 +19,7 @@ Script Python: (acoes_nao_conformidades_abertas.py)<br />
 		-Salvar e fechar a instância do Excel;<br />
 		-Abrir uma instância outlook e enviar o arquivo para a lista de e-mails pré-definida.
 		
+
 Script VBA: (vba-impressao-dinamica.bas)<br />
 	Identifica o comprimento da tabela recém sincronizada com o banco de dados e define a área de impressão de forma dinâmica
+
