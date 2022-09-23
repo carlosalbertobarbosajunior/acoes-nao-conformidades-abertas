@@ -10,7 +10,7 @@ View em T-SQL: (view-acoes-em-aberto.sql)
 
 
 Script Python: (acoes_nao_conformidades_abertas.py)
-	Através da biblioteca win32com, o script é capaz de:\n
+	Através da biblioteca win32com, o script é capaz de:
 		-Abrir uma instância em excel;
 		-Abrir a planilha conectada previamente com o banco de dados;
 		-Atualizar todos os vínculos com o banco de dados;
